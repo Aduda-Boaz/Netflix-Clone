@@ -19,7 +19,6 @@ export default function Home() {
                         <OptForm.Text>Ready to watch? Enter your email to create or restart your membership.</OptForm.Text>
                     </OptForm>
                 </Feature>
-                
             </HeaderContainer>
             <JumbotronContainer />
             <FaqsContainer />
